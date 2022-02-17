@@ -1,6 +1,6 @@
-﻿[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+﻿# Calendar FireBrigade
 
-# Calendar FireBrigade
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A niche tool for a very specific calendar use case.
 
